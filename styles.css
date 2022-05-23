@@ -53,12 +53,13 @@ img {
 }
 main {
     max-width: 80%;
-    margin: 50px 10%;
+    margin: 50px 5%;
 }
 
 .hero-container {
     display: flex;
     margin: 8% 5%;
+    padding-right: 15px;
     width: 100%;
     border: rgb(130, 130, 130) solid 2px;
 }
