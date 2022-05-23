@@ -38,6 +38,7 @@ main button {
     top: 50px;
     width: 300px;
     height: 40px;
+    font-weight: 700;
     margin-left: 45%;
     justify-content: center;
     align-items: center;
@@ -51,8 +52,8 @@ img {
     margin-left: 15px;
 }
 main {
-    max-width: 1000px;
-    margin: 50px 150px;
+    max-width: 80%;
+    margin: 50px 10%;
 }
 
 .hero-container {
