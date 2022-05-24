@@ -3,6 +3,7 @@ body {
     width: 100%;
     background: #000;
     color: #fff;
+   
 }
 main {
     max-width: 90%;
@@ -19,6 +20,15 @@ nav{
 }
 .spacer {
     flex-grow: 1;
+}
+.film-karte {
+    padding: 15px;
+    max-width: 340px;
+    justify-content: center;
+    border: rgb(187, 187, 187) solid 1px;
+}
+.film-karte img {
+    justify-content: center;
 }
 nav img {
     width: 50px;
